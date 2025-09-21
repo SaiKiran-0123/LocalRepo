@@ -1,4 +1,7 @@
-<p>This is new Repo.</p>
-<p>This is a new feature {Dropdown}</p>
+<p>This is new Repository.</p>
+<p>This is a new RadComboBox {Dropdown}</p>
 <p>This is a new RadButton {Button}</p>
+<p>This is a new Border</p>
+<p>This is a new TelerikHedline</p>
+
 <p>This is a new TelerikLabel</p>
